@@ -1,0 +1,2 @@
+export const ONCHAINKIT_PROJECT_ID = process.env.NEXT_PUBLIC_ONCHAINKIT_PROJECT_ID || 'f23e8de0-50c7-4ba7-a876-02c1bb6c3e47';
+export const ONCHAINKIT_API_KEY = process.env.NEXT_PUBLIC_ONCHAINKIT_API_KEY || 'ohara1234ohara';
