@@ -1,7 +1,7 @@
 # Builder Rewards Tracker 🏆
 
 A comprehensive dashboard for tracking eligibility for **Base Builder Rewards** and **Celo Proof of Ship** programs.
-
+- .[AppLink](https://farcaster.xyz/miniapps/ya6GfQ-ISzL6/crypto-builders-rewards)
 ## 🎯 Overview
 
 This application helps blockchain builders track their eligibility for two major reward programs:
@@ -135,10 +135,10 @@ MIT License - feel free to use this project for your own purposes.
 ## 📞 Support
 
 For questions or issues:
-- Open an issue on GitHub
-- Join the Base Discord
-- Check Celo developer forums
+- Open an issue on [Github](https://github.com/sinirlibiber/)
+-  .[Farcaster](https://farcaster.xyz/gumusbey)
+
 
 ---
 
-Built with ❤️ for the Base and Celo builder communities
+Built with sinirlibiber ❤️ for the Base and Celo builder communities
